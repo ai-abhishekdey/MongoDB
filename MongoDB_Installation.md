@@ -1,4 +1,4 @@
-## Mongodb Installation in Ubuntu 22.04
+## MongoDB Installation in Ubuntu 22.04
 
 ---
 
